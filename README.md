@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Data enthusiast </h1>
 <p>A passionate Data/Business Analyst</p>
+<p>🔭 I’m currently working in <a href="https://www.aidash.com/" target="blank">AiDASH</a></p>
 <p>🌎 I'm from India</p>
 <p>📫 You can reach me at <strong><a href="mailto:srinivasateja.koorapathy@gmail.com">srinivasateja.koorapathy@gmail.com</a></strong></p>
 <p>🛠️ I use these technologies:</p>
